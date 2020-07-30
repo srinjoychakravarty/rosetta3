@@ -1,4 +1,4 @@
-# Introductory Tutorial to score a biomolecule in Rosetta on HPC
+# Introductory Tutorial to score a biomolecule with Rosetta 3 on HPC
 
 ## This example shows a possible usage of the rosetta software on the cluster.
 
